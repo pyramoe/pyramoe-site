@@ -1,0 +1,62 @@
+baseURL = "https://pyramoe.com/"
+title = "pyramoe"
+languageCode = "en"
+enableRobotsTXT = true
+theme = 'ananke' 
+
+# If you want /blog/ as the main post section:
+[permalinks]
+  blog = "/blog/:year/:month/:slug/"
+
+# Taxonomies (tags/categories + your own)
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  topic = "topics"   # optional, useful for cross-cutting themes
+
+[params]
+  description = "Linguistics, organizing, politics, and creative tech."
+  author = "Moaaz Saadsson"
+
+# Main nav (top-level structure)
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+  [[menu.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 20
+  [[menu.main]]
+    name = "Linguistics"
+    pageRef = "/linguistics"
+    weight = 30
+  [[menu.main]]
+    name = "Politics"
+    pageRef = "/politics"
+    weight = 40
+  [[menu.main]]
+    name = "Projects"
+    pageRef = "/projects"
+    weight = 50
+  [[menu.main]]
+    name = "Creative"
+    pageRef = "/creative"
+    weight = 60
+  [[menu.main]]
+    name = "Worldbuilding"
+    pageRef = "/worldbuilding"
+    weight = 70
+  [[menu.main]]
+    name = "Media"
+    pageRef = "/media"
+    weight = 80
+  [[menu.main]]
+    name = "Blog"
+    pageRef = "/blog"
+    weight = 90
+  [[menu.main]]
+    name = "Contact"
+    pageRef = "/contact"
+    weight = 100
