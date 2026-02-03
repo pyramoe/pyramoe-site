@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta on pyramoe</title>
-    <link>http://localhost:1314/meta/</link>
+    <link>http://localhost:1313/meta/</link>
     <description>Recent content in Meta on pyramoe</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Feb 2026 09:00:00 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1314/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colophon</title>
-      <link>http://localhost:1314/meta/colophon/</link>
+      <link>http://localhost:1313/meta/colophon/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/meta/colophon/</guid>
+      <guid>http://localhost:1313/meta/colophon/</guid>
       <description>&lt;p&gt;Tech stack.&lt;/p&gt;&#xA;&lt;p&gt;Design philosophy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Now</title>
-      <link>http://localhost:1314/meta/now/</link>
+      <link>http://localhost:1313/meta/now/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/meta/now/</guid>
+      <guid>http://localhost:1313/meta/now/</guid>
       <description>&lt;p&gt;What you’re currently focused on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy / License</title>
-      <link>http://localhost:1314/meta/privacy-license/</link>
+      <link>http://localhost:1313/meta/privacy-license/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/meta/privacy-license/</guid>
+      <guid>http://localhost:1313/meta/privacy-license/</guid>
       <description>&lt;p&gt;Validity of my leg.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uses</title>
-      <link>http://localhost:1314/meta/uses/</link>
+      <link>http://localhost:1313/meta/uses/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/meta/uses/</guid>
+      <guid>http://localhost:1313/meta/uses/</guid>
       <description>&lt;p&gt;Tools, software, setup.&lt;/p&gt;</description>
     </item>
   </channel>

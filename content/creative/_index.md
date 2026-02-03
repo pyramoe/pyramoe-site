@@ -6,12 +6,12 @@ draft = false
 
 ## Music
 
-Pyramoe / Desolation Collective (archive), releases, descriptions, reflections.
+Formerly active as a rapper and producer under the name Pyramoe, part of Desolation Collective. I made alternative hip-hop with influences from hyperpop, glitchcore, and drain-adjacent aesthetics.
 
 ## Audio & Media
 
-Sound design, experimental work.
+Sound design, experimental production, and audio editing.
 
 ## Visual / Design
 
-Graphic design, visual experiments.
+Graphic design and visual experiments.

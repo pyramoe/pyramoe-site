@@ -6,11 +6,11 @@ draft = false
 
 ## Posts
 
-Longer posts and essays.
+Longer posts about linguistics, organizing, and creative tech.
 
 ## Short updates
 
-Brief updates and notes.
+Brief updates from projects, committees, and community work.
 
 ## Reflections
 

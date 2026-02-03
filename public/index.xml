@@ -2,262 +2,262 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on pyramoe</title>
-    <link>http://localhost:1314/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on pyramoe</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Feb 2026 09:00:00 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic Focus</title>
-      <link>http://localhost:1314/linguistics/academic-focus/</link>
+      <link>http://localhost:1313/linguistics/academic-focus/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/linguistics/academic-focus/</guid>
-      <description>&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of interest&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;methodological-interests&#34;&gt;Methodological interests&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/linguistics/academic-focus/</guid>
+      <description>&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of interest&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Afroasiatic, Semitic, and Indo-European languages&lt;/li&gt;&#xA;&lt;li&gt;Writing systems and orthographies&lt;/li&gt;&#xA;&lt;li&gt;Phonetics and phonology&lt;/li&gt;&#xA;&lt;li&gt;Grammar and syntactic change&lt;/li&gt;&#xA;&lt;li&gt;Historical linguistics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;methodological-interests&#34;&gt;Methodological interests&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Language change in lived communities&lt;/li&gt;&#xA;&lt;li&gt;Script evolution and sociopolitical context&lt;/li&gt;&#xA;&lt;li&gt;Usage-based norms and speaker authority&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Academic Projects</title>
-      <link>http://localhost:1314/projects/academic-projects/</link>
+      <link>http://localhost:1313/projects/academic-projects/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/projects/academic-projects/</guid>
+      <guid>http://localhost:1313/projects/academic-projects/</guid>
       <description>&lt;p&gt;Linguistics-related research or tools.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Archived Projects</title>
-      <link>http://localhost:1314/projects/archived/</link>
+      <link>http://localhost:1313/projects/archived/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/projects/archived/</guid>
+      <guid>http://localhost:1313/projects/archived/</guid>
       <description>&lt;p&gt;Older or completed work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Audio &amp; Media</title>
-      <link>http://localhost:1314/creative/audio-media/</link>
+      <link>http://localhost:1313/creative/audio-media/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/creative/audio-media/</guid>
+      <guid>http://localhost:1313/creative/audio-media/</guid>
       <description>&lt;p&gt;Sound design.&lt;/p&gt;&#xA;&lt;p&gt;Experimental work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Biography</title>
-      <link>http://localhost:1314/about/biography/</link>
+      <link>http://localhost:1313/about/biography/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/about/biography/</guid>
-      <description>&lt;p&gt;Long-form personal introduction.&lt;/p&gt;&#xA;&lt;p&gt;Geographic background &amp;amp; timeline.&lt;/p&gt;&#xA;&lt;p&gt;Languages spoken.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/biography/</guid>
+      <description>&lt;p&gt;I’m Moaaz Saadsson, a linguistics student, political organizer, and incurable generalist whose life has been shaped by movement — geographical, intellectual, and social. I was born on April 26, 2005, in Egypt, into an Egyptian family, and I spent my childhood moving between countries and cultures: Qatar, the UAE, back to Egypt, then Qatar again, before settling in Sweden in 2018, where I’ve lived ever since. Growing up across the Arab world and later in Northern Europe fundamentally shaped how I see language, identity, power, and belonging.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Colophon</title>
-      <link>http://localhost:1314/meta/colophon/</link>
+      <link>http://localhost:1313/meta/colophon/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/meta/colophon/</guid>
+      <guid>http://localhost:1313/meta/colophon/</guid>
       <description>&lt;p&gt;Tech stack.&lt;/p&gt;&#xA;&lt;p&gt;Design philosophy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Community Involvement</title>
-      <link>http://localhost:1314/community/community-involvement/</link>
+      <link>http://localhost:1313/community/community-involvement/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/community/community-involvement/</guid>
+      <guid>http://localhost:1313/community/community-involvement/</guid>
       <description>&lt;p&gt;Discord communities.&lt;/p&gt;&#xA;&lt;p&gt;Collaborative spaces.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Competitions &amp; Olympiads</title>
-      <link>http://localhost:1314/linguistics/competitions-olympiads/</link>
+      <link>http://localhost:1313/linguistics/competitions-olympiads/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/linguistics/competitions-olympiads/</guid>
-      <description>&lt;h2 id=&#34;swedish-linguistics-olympiad&#34;&gt;Swedish Linguistics Olympiad&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;international-linguistics-olympiad&#34;&gt;International Linguistics Olympiad&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ethics-committee-work&#34;&gt;Ethics Committee work&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/linguistics/competitions-olympiads/</guid>
+      <description>&lt;h2 id=&#34;swedish-linguistics-olympiad&#34;&gt;Swedish Linguistics Olympiad&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Finalist (2022, 2024)&lt;/li&gt;&#xA;&lt;li&gt;Organizer (2024–present)&lt;/li&gt;&#xA;&lt;li&gt;Board Member (2025–present)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;international-linguistics-olympiad&#34;&gt;International Linguistics Olympiad&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Competitor for the Swedish National Team (2022, 2024)&lt;/li&gt;&#xA;&lt;li&gt;Honorable Mention, Team Competition (2024)&lt;/li&gt;&#xA;&lt;li&gt;Ethics Committee Member (2025–present)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ethics-committee-work&#34;&gt;Ethics Committee work&lt;/h2&gt;&#xA;&lt;p&gt;Focus on fairness, safeguarding, and institutional responsibility in international competitions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Creative &amp; Technical Projects</title>
-      <link>http://localhost:1314/projects/creative-technical/</link>
+      <link>http://localhost:1313/projects/creative-technical/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/projects/creative-technical/</guid>
+      <guid>http://localhost:1313/projects/creative-technical/</guid>
       <description>&lt;p&gt;Worldbuilding, mapping, game-related tools or mods.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CV / Resume</title>
-      <link>http://localhost:1314/about/cv/</link>
+      <link>http://localhost:1313/about/cv/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/about/cv/</guid>
-      <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;work-experience&#34;&gt;Work experience&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;organizational-roles&#34;&gt;Organizational roles&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/cv/</guid>
+      <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Name: Moaaz Saadsson&lt;/li&gt;&#xA;&lt;li&gt;Date of birth: 2005-04-26&lt;/li&gt;&#xA;&lt;li&gt;Phone: +46 76 078 85 27&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:moaaztdb@gmail.com&#34;&gt;moaaztdb@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Stockholm University — Bachelor’s Program in Linguistics (2024-09-02 to present)&lt;/li&gt;&#xA;&lt;li&gt;Luleå Upper Secondary School — Humanities Program, Specialization in Culture (2021-08-18 to 2024-06-12)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Swedish — Fluent&lt;/li&gt;&#xA;&lt;li&gt;English — Fluent&lt;/li&gt;&#xA;&lt;li&gt;Egyptian Arabic — Fluent&lt;/li&gt;&#xA;&lt;li&gt;Modern Standard Arabic — Fluent&lt;/li&gt;&#xA;&lt;li&gt;German — Medium proficiency&lt;/li&gt;&#xA;&lt;li&gt;Coptic — Medium proficiency&lt;/li&gt;&#xA;&lt;li&gt;Italian — Basic&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;technical-skills&#34;&gt;Technical skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Microsoft Office&lt;/li&gt;&#xA;&lt;li&gt;Adobe Photoshop&lt;/li&gt;&#xA;&lt;li&gt;Audio editing (advanced)&lt;/li&gt;&#xA;&lt;li&gt;Video editing (basic)&lt;/li&gt;&#xA;&lt;li&gt;Programming (basic)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;merits--other-assignments&#34;&gt;Merits &amp;amp; other assignments&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Brönjaskolan (Lower Secondary School) — Student Council Representative (2019–2021)&lt;/li&gt;&#xA;&lt;li&gt;Luleå Upper Secondary School — Student Council Representative (2021–2024)&lt;/li&gt;&#xA;&lt;li&gt;Luleå Upper Secondary School — Student Council President (2023–2024)&lt;/li&gt;&#xA;&lt;li&gt;Luleå Upper Secondary School — Student Safety Representative (2023–2024)&lt;/li&gt;&#xA;&lt;li&gt;Luleå School of Culture — Student Committee Member (2022–2023)&lt;/li&gt;&#xA;&lt;li&gt;Stockholm University Student Union — Union Assembly Representative (2025–present)&lt;/li&gt;&#xA;&lt;li&gt;Stockholm University Student Union — Election Committee Member (2025–present)&lt;/li&gt;&#xA;&lt;li&gt;Swedish Linguistics Olympiad — Finalist (2022, 2024)&lt;/li&gt;&#xA;&lt;li&gt;Swedish Linguistics Olympiad — Organizer (2024–present)&lt;/li&gt;&#xA;&lt;li&gt;Swedish Linguistics Olympiad — Board Member (2025–present)&lt;/li&gt;&#xA;&lt;li&gt;International Linguistics Olympiad — Competitor, Swedish National Team (2022, 2024)&lt;/li&gt;&#xA;&lt;li&gt;International Linguistics Olympiad — Honorable Mention, Team Competition (2024)&lt;/li&gt;&#xA;&lt;li&gt;International Linguistics Olympiad — Ethics Committee Member (2025–present)&lt;/li&gt;&#xA;&lt;li&gt;Vänsterpartiet Luleå — Board Member (2023–2024)&lt;/li&gt;&#xA;&lt;li&gt;Ung Vänster Luleå — Board Member (2023–2024)&lt;/li&gt;&#xA;&lt;li&gt;Stockholm Academics for Palestine — Chairman (2025)&lt;/li&gt;&#xA;&lt;li&gt;Framtidens Vänster Solna — Chairman (2025–present)&lt;/li&gt;&#xA;&lt;li&gt;Framtidens Vänster – Studenterna — Chairman (2025–present)&lt;/li&gt;&#xA;&lt;li&gt;Framtidens Vänster Program Committee — Member (2026–present)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;work-experience&#34;&gt;Work experience&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Nordpoolen — Cleaner (internship) | 2020-09-21 to 2020-09-25&#xA;Cleaning at Nordpoolen swimming hall and water park and maintaining general spaces, including wet and dry areas.&lt;/li&gt;&#xA;&lt;li&gt;Luleå Municipality Park Department — Park Worker | 2021-07-26 to 2021-08-13&#xA;Weeding, raking, flower bed maintenance, and environmental care in forest areas.&lt;/li&gt;&#xA;&lt;li&gt;Ung Vänster Norrbotten — Election Campaign Manager | 2022-07-09 to 2022-09-16&#xA;Coordinated regional election work, school visits, debates, and member activities.&lt;/li&gt;&#xA;&lt;li&gt;Lillön Group Housing, Luleå Municipality Social Services — Residential Supervisor | 2023-06-01 to 2023-09-30&#xA;Support and care for residents, including organizing activities based on individual needs.&lt;/li&gt;&#xA;&lt;li&gt;Kallkällan Nursing Home, Luleå Municipality Social Services — Residential Supervisor | 2025-06-16 to 2025-08-01&#xA;Support and care for residents, including organizing activities based on individual needs.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Essays &amp; Articles</title>
-      <link>http://localhost:1314/writing/essays-articles/</link>
+      <link>http://localhost:1313/writing/essays-articles/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/writing/essays-articles/</guid>
+      <guid>http://localhost:1313/writing/essays-articles/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Linguistics&lt;/li&gt;&#xA;&lt;li&gt;Politics&lt;/li&gt;&#xA;&lt;li&gt;History&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Games &amp; Modding</title>
-      <link>http://localhost:1314/worldbuilding/games-modding/</link>
+      <link>http://localhost:1313/worldbuilding/games-modding/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/worldbuilding/games-modding/</guid>
-      <description>&lt;p&gt;Minecraft / Hytale.&lt;/p&gt;&#xA;&lt;p&gt;Mods and design notes.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/worldbuilding/games-modding/</guid>
+      <description>&lt;p&gt;I’m active in modding and game design communities around Minecraft, Hytale, grand strategy games, and city builders. This section will include mod notes, design docs, and experiments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interviews</title>
-      <link>http://localhost:1314/media/interviews/</link>
+      <link>http://localhost:1313/media/interviews/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/media/interviews/</guid>
+      <guid>http://localhost:1313/media/interviews/</guid>
       <description>&lt;p&gt;Placeholder.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linguistics Projects</title>
-      <link>http://localhost:1314/linguistics/projects/</link>
+      <link>http://localhost:1313/linguistics/projects/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/linguistics/projects/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Linguistic analyses&lt;/li&gt;&#xA;&lt;li&gt;Script / writing system projects&lt;/li&gt;&#xA;&lt;li&gt;Interactive or computational linguistics work&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/linguistics/projects/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Linguistic analyses and problem design&lt;/li&gt;&#xA;&lt;li&gt;Script / writing system projects (Latin, Arabic, IPA, Cyrillic, Coptic)&lt;/li&gt;&#xA;&lt;li&gt;Interactive or computational linguistics work&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Mentions</title>
-      <link>http://localhost:1314/media/mentions/</link>
+      <link>http://localhost:1313/media/mentions/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/media/mentions/</guid>
+      <guid>http://localhost:1313/media/mentions/</guid>
       <description>&lt;p&gt;Placeholder.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Music</title>
-      <link>http://localhost:1314/creative/music/</link>
+      <link>http://localhost:1313/creative/music/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/creative/music/</guid>
-      <description>&lt;p&gt;Pyramoe / Desolation Collective (archive).&lt;/p&gt;&#xA;&lt;p&gt;Releases, descriptions, reflections.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/creative/music/</guid>
+      <description>&lt;p&gt;I was formerly active as a rapper and music producer under the name Pyramoe as part of Desolation Collective, making underground, alternative hip-hop influenced by hyperpop, glitchcore, and drain-adjacent aesthetics.&lt;/p&gt;&#xA;&lt;p&gt;Releases, descriptions, and reflections will go here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Now</title>
-      <link>http://localhost:1314/meta/now/</link>
+      <link>http://localhost:1313/meta/now/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/meta/now/</guid>
+      <guid>http://localhost:1313/meta/now/</guid>
       <description>&lt;p&gt;What you’re currently focused on.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Source &amp; Community Projects</title>
-      <link>http://localhost:1314/projects/open-source/</link>
+      <link>http://localhost:1313/projects/open-source/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/projects/open-source/</guid>
+      <guid>http://localhost:1313/projects/open-source/</guid>
       <description>&lt;p&gt;GitHub-linked work and collaborative initiatives.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Opinion &amp; Commentary</title>
-      <link>http://localhost:1314/writing/opinion-commentary/</link>
+      <link>http://localhost:1313/writing/opinion-commentary/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/writing/opinion-commentary/</guid>
+      <guid>http://localhost:1313/writing/opinion-commentary/</guid>
       <description>&lt;p&gt;Short-form political or cultural texts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organizations</title>
-      <link>http://localhost:1314/politics/organizations/</link>
+      <link>http://localhost:1313/politics/organizations/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/politics/organizations/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Framtidens Vänster (roles &amp;amp; work)&lt;/li&gt;&#xA;&lt;li&gt;Student and activist organizations&lt;/li&gt;&#xA;&lt;li&gt;Past political involvement&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/politics/organizations/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Framtidens Vänster Solna — Chairman (2025–present)&lt;/li&gt;&#xA;&lt;li&gt;Framtidens Vänster – Studenterna — Chairman (2025–present)&lt;/li&gt;&#xA;&lt;li&gt;Framtidens Vänster Program Committee — Member (2026–present)&lt;/li&gt;&#xA;&lt;li&gt;Stockholm Academics for Palestine — Chairman (2025)&lt;/li&gt;&#xA;&lt;li&gt;Vänsterpartiet Luleå — Board Member (2023–2024)&lt;/li&gt;&#xA;&lt;li&gt;Ung Vänster Luleå — Board Member (2023–2024)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Personal Facts (Optional)</title>
-      <link>http://localhost:1314/about/personal-facts/</link>
+      <link>http://localhost:1313/about/personal-facts/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/about/personal-facts/</guid>
-      <description>&lt;p&gt;Interests, hobbies, travel.&lt;/p&gt;&#xA;&lt;p&gt;Neurodivergence (if you choose to include).&lt;/p&gt;&#xA;&lt;p&gt;Media &amp;amp; cultural interests.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/personal-facts/</guid>
+      <description>&lt;h2 id=&#34;interests-hobbies-travel&#34;&gt;Interests, hobbies, travel&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Worldbuilding, conlangs, neography, scripts, and imaginary maps&lt;/li&gt;&#xA;&lt;li&gt;Game design and modding (Minecraft, Hytale, grand strategy, and city builders)&lt;/li&gt;&#xA;&lt;li&gt;Mapping, speculative history, and alternate history&lt;/li&gt;&#xA;&lt;li&gt;Traveling across Europe, the Middle East, and beyond (including Brazil and Japan)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;neurodivergence&#34;&gt;Neurodivergence&lt;/h2&gt;&#xA;&lt;p&gt;I’m neurodivergent (autistic + ADHD), which shapes how I think, work, and relate to the world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media--cultural-interests&#34;&gt;Media &amp;amp; cultural interests&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Underground rap, hyperpop, glitchcore, and experimental production&lt;/li&gt;&#xA;&lt;li&gt;Dune, Game of Thrones / A Song of Ice and Fire, Steven Universe, and speculative fiction more broadly&lt;/li&gt;&#xA;&lt;li&gt;Internet culture, free software, and digital communities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;health-and-accessibility-optional&#34;&gt;Health and accessibility (optional)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I’m nearsighted and deal with insomnia&lt;/li&gt;&#xA;&lt;li&gt;I’ve recovered from COVID-19 twice&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;fun-facts&#34;&gt;Fun facts&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I like cats, skating, and long conversations that spiral into theory&lt;/li&gt;&#xA;&lt;li&gt;I’m powered by caffeine, shawarma, sushi, and way too much cheese&lt;/li&gt;&#xA;&lt;li&gt;I occasionally smoke&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Political Overview</title>
-      <link>http://localhost:1314/politics/overview/</link>
+      <link>http://localhost:1313/politics/overview/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/politics/overview/</guid>
-      <description>&lt;p&gt;Core political positions.&lt;/p&gt;&#xA;&lt;p&gt;Theoretical influences.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/politics/overview/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Libertarian marxist, radical feminist, anti-capitalist, anti-imperialist, internationalist&lt;/li&gt;&#xA;&lt;li&gt;Committed to popular education and mass movements&lt;/li&gt;&#xA;&lt;li&gt;Anti-nationalist and pro-democratic organizing from below&lt;/li&gt;&#xA;&lt;li&gt;Supports LGBTQ+ liberation, climate justice, and public transit&lt;/li&gt;&#xA;&lt;li&gt;Supports Palestinian right of return and a democratic state in historic Palestine&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Popular Education</title>
-      <link>http://localhost:1314/community/popular-education/</link>
+      <link>http://localhost:1313/community/popular-education/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/community/popular-education/</guid>
+      <guid>http://localhost:1313/community/popular-education/</guid>
       <description>&lt;p&gt;Pedagogical philosophy.&lt;/p&gt;&#xA;&lt;p&gt;Teaching materials.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy / License</title>
-      <link>http://localhost:1314/meta/privacy-license/</link>
+      <link>http://localhost:1313/meta/privacy-license/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/meta/privacy-license/</guid>
+      <guid>http://localhost:1313/meta/privacy-license/</guid>
       <description>&lt;p&gt;Validity of my leg.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Program &amp; Policy Work</title>
-      <link>http://localhost:1314/politics/program-policy/</link>
+      <link>http://localhost:1313/politics/program-policy/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/politics/program-policy/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Program committee contributions&lt;/li&gt;&#xA;&lt;li&gt;Policy texts&lt;/li&gt;&#xA;&lt;li&gt;Drafts or reflections&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/politics/program-policy/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Framtidens Vänster Program Committee — Member (2026–present)&lt;/li&gt;&#xA;&lt;li&gt;Policy drafting and program contributions&lt;/li&gt;&#xA;&lt;li&gt;Political education and workshop facilitation&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Public Contributions</title>
-      <link>http://localhost:1314/media/public-contributions/</link>
+      <link>http://localhost:1313/media/public-contributions/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/media/public-contributions/</guid>
+      <guid>http://localhost:1313/media/public-contributions/</guid>
       <description>&lt;p&gt;Wikipedia.&lt;/p&gt;&#xA;&lt;p&gt;Panels or events.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resources</title>
-      <link>http://localhost:1314/linguistics/resources/</link>
+      <link>http://localhost:1313/linguistics/resources/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/linguistics/resources/</guid>
-      <description>&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;reading-lists&#34;&gt;Reading lists&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;learning-materials&#34;&gt;Learning materials&lt;/h2&gt;&#xA;&lt;p&gt;Optional public pedagogy.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/linguistics/resources/</guid>
+      <description>&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;&#xA;&lt;p&gt;Reading notes and study guides.&lt;/p&gt;&#xA;&lt;h2 id=&#34;reading-lists&#34;&gt;Reading lists&lt;/h2&gt;&#xA;&lt;p&gt;Lists focused on Afroasiatic, Semitic, scripts, and historical linguistics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;learning-materials&#34;&gt;Learning materials&lt;/h2&gt;&#xA;&lt;p&gt;Public pedagogy materials for linguistics olympiad training and community learning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Speculative History</title>
-      <link>http://localhost:1314/worldbuilding/speculative-history/</link>
+      <link>http://localhost:1313/worldbuilding/speculative-history/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/worldbuilding/speculative-history/</guid>
+      <guid>http://localhost:1313/worldbuilding/speculative-history/</guid>
       <description>&lt;p&gt;Alternate history projects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Statements &amp; Positions</title>
-      <link>http://localhost:1314/politics/statements/</link>
+      <link>http://localhost:1313/politics/statements/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/politics/statements/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Public statements&lt;/li&gt;&#xA;&lt;li&gt;Solidarity positions (e.g. Palestine)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/politics/statements/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Supports Palestinian right of return and a democratic state in historic Palestine&lt;/li&gt;&#xA;&lt;li&gt;Supports LGBTQ+ liberation and radical feminist organizing&lt;/li&gt;&#xA;&lt;li&gt;Supports public transit and car-free urban futures&lt;/li&gt;&#xA;&lt;li&gt;Critical of capitalism, nationalism, and intellectual property regimes&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Talks &amp; Presentations</title>
-      <link>http://localhost:1314/writing/talks-presentations/</link>
+      <link>http://localhost:1313/writing/talks-presentations/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/writing/talks-presentations/</guid>
+      <guid>http://localhost:1313/writing/talks-presentations/</guid>
       <description>&lt;p&gt;Slides, abstracts, recordings (if available).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Translations</title>
-      <link>http://localhost:1314/writing/translations/</link>
+      <link>http://localhost:1313/writing/translations/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/writing/translations/</guid>
+      <guid>http://localhost:1313/writing/translations/</guid>
       <description>&lt;p&gt;Arabic / Swedish / English work.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uses</title>
-      <link>http://localhost:1314/meta/uses/</link>
+      <link>http://localhost:1313/meta/uses/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/meta/uses/</guid>
+      <guid>http://localhost:1313/meta/uses/</guid>
       <description>&lt;p&gt;Tools, software, setup.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Values &amp; Orientation</title>
-      <link>http://localhost:1314/about/values-orientation/</link>
+      <link>http://localhost:1313/about/values-orientation/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/about/values-orientation/</guid>
-      <description>&lt;h2 id=&#34;academic-interests&#34;&gt;Academic interests&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;political-orientation&#34;&gt;Political orientation&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;views-on-language-education-and-organizing&#34;&gt;Views on language, education, and organizing&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/values-orientation/</guid>
+      <description>&lt;h2 id=&#34;academic-interests&#34;&gt;Academic interests&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Afroasiatic, Semitic, and Indo-European languages&lt;/li&gt;&#xA;&lt;li&gt;Writing systems, script evolution, and orthography&lt;/li&gt;&#xA;&lt;li&gt;Phonetics, phonology, and grammar&lt;/li&gt;&#xA;&lt;li&gt;Historical linguistics and language change in real communities&lt;/li&gt;&#xA;&lt;li&gt;The relationship between language, ideology, power, and identity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;political-orientation&#34;&gt;Political orientation&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Libertarian marxist, radical feminist, anti-capitalist, anti-imperialist, internationalist&lt;/li&gt;&#xA;&lt;li&gt;Committed to popular education, mass movements, and democratic organizing from below&lt;/li&gt;&#xA;&lt;li&gt;Critical of intellectual property regimes, car dependency, and nationalist narratives&lt;/li&gt;&#xA;&lt;li&gt;Supports LGBTQ+ liberation, climate justice, and the Palestinian right of return&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;views-on-language-education-and-organizing&#34;&gt;Views on language, education, and organizing&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Language is a living social system shaped by speakers, power, and history&lt;/li&gt;&#xA;&lt;li&gt;Prescriptive and descriptive norms both matter, but language change is natural and inevitable&lt;/li&gt;&#xA;&lt;li&gt;Education should be collective, accessible, and tied to community needs&lt;/li&gt;&#xA;&lt;li&gt;Organizing is a craft: building trust, developing leadership, and sustaining movements over time&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Visual / Design</title>
-      <link>http://localhost:1314/creative/visual-design/</link>
+      <link>http://localhost:1313/creative/visual-design/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/creative/visual-design/</guid>
+      <guid>http://localhost:1313/creative/visual-design/</guid>
       <description>&lt;p&gt;Graphic design.&lt;/p&gt;&#xA;&lt;p&gt;Visual experiments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Workshops &amp; Events</title>
-      <link>http://localhost:1314/community/workshops-events/</link>
+      <link>http://localhost:1313/community/workshops-events/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/community/workshops-events/</guid>
+      <guid>http://localhost:1313/community/workshops-events/</guid>
       <description>&lt;p&gt;Camps, lectures, organizing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Worldbuilding</title>
-      <link>http://localhost:1314/worldbuilding/worldbuilding/</link>
+      <link>http://localhost:1313/worldbuilding/worldbuilding/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/worldbuilding/worldbuilding/</guid>
+      <guid>http://localhost:1313/worldbuilding/worldbuilding/</guid>
       <description>&lt;p&gt;Conworlds.&lt;/p&gt;&#xA;&lt;p&gt;Linguistic worldbuilding.&lt;/p&gt;&#xA;&lt;p&gt;Maps &amp;amp; timelines.&lt;/p&gt;</description>
     </item>
   </channel>

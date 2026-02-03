@@ -6,12 +6,12 @@ draft = false
 
 ## Notes
 
-Placeholder.
+Reading notes and study guides.
 
 ## Reading lists
 
-Placeholder.
+Lists focused on Afroasiatic, Semitic, scripts, and historical linguistics.
 
 ## Learning materials
 
-Optional public pedagogy.
+Public pedagogy materials for linguistics olympiad training and community learning.

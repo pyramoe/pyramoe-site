@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on pyramoe</title>
-    <link>http://localhost:1314/writing/</link>
+    <link>http://localhost:1313/writing/</link>
     <description>Recent content in Writing on pyramoe</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Feb 2026 09:00:00 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1314/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Essays &amp; Articles</title>
-      <link>http://localhost:1314/writing/essays-articles/</link>
+      <link>http://localhost:1313/writing/essays-articles/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/writing/essays-articles/</guid>
+      <guid>http://localhost:1313/writing/essays-articles/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Linguistics&lt;/li&gt;&#xA;&lt;li&gt;Politics&lt;/li&gt;&#xA;&lt;li&gt;History&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Opinion &amp; Commentary</title>
-      <link>http://localhost:1314/writing/opinion-commentary/</link>
+      <link>http://localhost:1313/writing/opinion-commentary/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/writing/opinion-commentary/</guid>
+      <guid>http://localhost:1313/writing/opinion-commentary/</guid>
       <description>&lt;p&gt;Short-form political or cultural texts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talks &amp; Presentations</title>
-      <link>http://localhost:1314/writing/talks-presentations/</link>
+      <link>http://localhost:1313/writing/talks-presentations/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/writing/talks-presentations/</guid>
+      <guid>http://localhost:1313/writing/talks-presentations/</guid>
       <description>&lt;p&gt;Slides, abstracts, recordings (if available).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Translations</title>
-      <link>http://localhost:1314/writing/translations/</link>
+      <link>http://localhost:1313/writing/translations/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/writing/translations/</guid>
+      <guid>http://localhost:1313/writing/translations/</guid>
       <description>&lt;p&gt;Arabic / Swedish / English work.&lt;/p&gt;</description>
     </item>
   </channel>

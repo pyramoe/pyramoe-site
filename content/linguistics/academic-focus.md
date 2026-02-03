@@ -6,8 +6,14 @@ draft = false
 
 ## Areas of interest
 
-Placeholder.
+- Afroasiatic, Semitic, and Indo-European languages
+- Writing systems and orthographies
+- Phonetics and phonology
+- Grammar and syntactic change
+- Historical linguistics
 
 ## Methodological interests
 
-Placeholder.
+- Language change in lived communities
+- Script evolution and sociopolitical context
+- Usage-based norms and speaker authority

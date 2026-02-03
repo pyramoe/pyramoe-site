@@ -6,16 +6,16 @@ draft = false
 
 ## Academic Projects
 
-Linguistics-related research or tools.
+Linguistics-related research, olympiad materials, and language analysis tools.
 
 ## Creative & Technical Projects
 
-Worldbuilding, mapping, game-related tools or mods.
+Worldbuilding, mapping, game-related tools or mods, and experimental media.
 
 ## Open Source / Community Projects
 
-GitHub-linked work and collaborative initiatives.
+GitHub-linked work, collaborative initiatives, and public pedagogy.
 
 ## Archived Projects
 
-Older or completed work.
+Older or completed work (including music releases under the name Pyramoe).

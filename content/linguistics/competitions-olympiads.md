@@ -6,12 +6,16 @@ draft = false
 
 ## Swedish Linguistics Olympiad
 
-Placeholder.
+- Finalist (2022, 2024)
+- Organizer (2024–present)
+- Board Member (2025–present)
 
 ## International Linguistics Olympiad
 
-Placeholder.
+- Competitor for the Swedish National Team (2022, 2024)
+- Honorable Mention, Team Competition (2024)
+- Ethics Committee Member (2025–present)
 
 ## Ethics Committee work
 
-Placeholder.
+Focus on fairness, safeguarding, and institutional responsibility in international competitions.

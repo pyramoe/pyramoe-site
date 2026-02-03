@@ -4,29 +4,13 @@ date = 2026-02-03T09:00:00-06:00
 draft = false
 +++
 
-## Biography
+## Overview
 
-Long-form personal introduction.
+I’m Moaaz Saadsson — a linguistics student, political organizer, and creative generalist based in Stockholm. My work sits at the intersection of language, organizing, history, and digital culture. This section gathers my biography, CV, values, and personal facts.
 
-Geographic background & timeline.
+## In This Section
 
-Languages spoken.
-
-## CV / Resume
-
-- Education
-- Work experience
-- Organizational roles
-- Skills
-
-## Values & Orientation
-
-- Academic interests
-- Political orientation
-- Views on language, education, and organizing
-
-## Personal Facts (Optional / Fun)
-
-- Interests, hobbies, travel
-- Neurodivergence (if you choose to include)
-- Media & cultural interests
+- [Biography](/about/biography/)
+- [CV / Resume](/about/cv/)
+- [Values & Orientation](/about/values-orientation/)
+- [Personal Facts (Optional)](/about/personal-facts/)

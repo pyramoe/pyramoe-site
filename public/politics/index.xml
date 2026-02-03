@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Politics &amp; Organizing on pyramoe</title>
-    <link>http://localhost:1314/politics/</link>
+    <link>http://localhost:1313/politics/</link>
     <description>Recent content in Politics &amp; Organizing on pyramoe</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Feb 2026 09:00:00 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1314/politics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Organizations</title>
-      <link>http://localhost:1314/politics/organizations/</link>
+      <link>http://localhost:1313/politics/organizations/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/politics/organizations/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Framtidens Vänster (roles &amp;amp; work)&lt;/li&gt;&#xA;&lt;li&gt;Student and activist organizations&lt;/li&gt;&#xA;&lt;li&gt;Past political involvement&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/politics/organizations/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Framtidens Vänster Solna — Chairman (2025–present)&lt;/li&gt;&#xA;&lt;li&gt;Framtidens Vänster – Studenterna — Chairman (2025–present)&lt;/li&gt;&#xA;&lt;li&gt;Framtidens Vänster Program Committee — Member (2026–present)&lt;/li&gt;&#xA;&lt;li&gt;Stockholm Academics for Palestine — Chairman (2025)&lt;/li&gt;&#xA;&lt;li&gt;Vänsterpartiet Luleå — Board Member (2023–2024)&lt;/li&gt;&#xA;&lt;li&gt;Ung Vänster Luleå — Board Member (2023–2024)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Political Overview</title>
-      <link>http://localhost:1314/politics/overview/</link>
+      <link>http://localhost:1313/politics/overview/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/politics/overview/</guid>
-      <description>&lt;p&gt;Core political positions.&lt;/p&gt;&#xA;&lt;p&gt;Theoretical influences.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/politics/overview/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Libertarian marxist, radical feminist, anti-capitalist, anti-imperialist, internationalist&lt;/li&gt;&#xA;&lt;li&gt;Committed to popular education and mass movements&lt;/li&gt;&#xA;&lt;li&gt;Anti-nationalist and pro-democratic organizing from below&lt;/li&gt;&#xA;&lt;li&gt;Supports LGBTQ+ liberation, climate justice, and public transit&lt;/li&gt;&#xA;&lt;li&gt;Supports Palestinian right of return and a democratic state in historic Palestine&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Program &amp; Policy Work</title>
-      <link>http://localhost:1314/politics/program-policy/</link>
+      <link>http://localhost:1313/politics/program-policy/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/politics/program-policy/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Program committee contributions&lt;/li&gt;&#xA;&lt;li&gt;Policy texts&lt;/li&gt;&#xA;&lt;li&gt;Drafts or reflections&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/politics/program-policy/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Framtidens Vänster Program Committee — Member (2026–present)&lt;/li&gt;&#xA;&lt;li&gt;Policy drafting and program contributions&lt;/li&gt;&#xA;&lt;li&gt;Political education and workshop facilitation&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Statements &amp; Positions</title>
-      <link>http://localhost:1314/politics/statements/</link>
+      <link>http://localhost:1313/politics/statements/</link>
       <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
-      <guid>http://localhost:1314/politics/statements/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Public statements&lt;/li&gt;&#xA;&lt;li&gt;Solidarity positions (e.g. Palestine)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/politics/statements/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Supports Palestinian right of return and a democratic state in historic Palestine&lt;/li&gt;&#xA;&lt;li&gt;Supports LGBTQ+ liberation and radical feminist organizing&lt;/li&gt;&#xA;&lt;li&gt;Supports public transit and car-free urban futures&lt;/li&gt;&#xA;&lt;li&gt;Critical of capitalism, nationalism, and intellectual property regimes&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

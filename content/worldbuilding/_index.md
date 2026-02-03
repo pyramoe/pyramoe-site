@@ -6,12 +6,12 @@ draft = false
 
 ## Worldbuilding
 
-Conworlds, linguistic worldbuilding, maps & timelines.
+Conworlds, linguistic worldbuilding, and speculative history with a focus on believable languages, scripts, and political systems.
 
 ## Games & Modding
 
-Minecraft / Hytale, mods and design notes.
+Minecraft / Hytale modding, grand strategy games, city builders, and game design notes.
 
 ## Speculative History
 
-Alternate history projects.
+Alternate history projects and timelines.

@@ -6,13 +6,15 @@ draft = false
 
 ## Essays & Articles
 
-- Linguistics
-- Politics
-- History
+Topics I return to most:
+
+- Linguistics (scripts, language change, and linguistic justice)
+- Politics (organizing, policy, and movement strategy)
+- History (ancient worlds, Late Antiquity, and Islamic civilizations)
 
 ## Opinion & Commentary
 
-Short-form political or cultural texts.
+Short-form political and cultural texts.
 
 ## Translations
 

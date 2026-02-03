@@ -10,11 +10,11 @@ Placeholder for a form or instructions.
 
 ## Email
 
-Placeholder email address.
+moaaztdb@gmail.com
 
 ## Social & Platforms
 
-- Wikipedia
+- Wikipedia (User:Norfuzion)
 - GitHub
 - Discord (handle or server links)
 

@@ -6,7 +6,7 @@ draft = false
 
 ## Overview / Landing
 
-Short personal intro (who you are, what you do). Write a 2–4 sentence summary here.
+I’m Moaaz Saadsson — a linguistics student, political organizer, and creative generalist based in Stockholm. I work at the intersection of language, organizing, history, and digital culture, with a long-term focus on popular education, linguistic justice, and community-driven projects.
 
 Core identities: linguistics · organizing · politics · creative tech.
 
@@ -21,12 +21,14 @@ Core identities: linguistics · organizing · politics · creative tech.
 
 ### Current roles
 
-- Linguistics student (placeholder)
-- Organizer (placeholder)
-- Committee member (placeholder)
+- BA student in Linguistics at Stockholm University
+- Organizer and board member, Swedish Linguistics Olympiad
+- Ethics Committee member, International Linguistics Olympiad
+- Chair, Framtidens Vänster Solna and Framtidens Vänster – Studenterna
+- Member, Framtidens Vänster Program Committee
 
 ### Featured projects or recent updates
 
-- Project highlight 1 (placeholder)
-- Project highlight 2 (placeholder)
-- Recent update (placeholder)
+- Linguistics Olympiad organizing and pedagogy work
+- Worldbuilding, conlanging, and script projects
+- Community organizing and political education

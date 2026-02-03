@@ -6,16 +6,12 @@ draft = false
 
 ## Popular Education
 
-Pedagogical philosophy.
-
-Teaching materials.
+I advocate proletarian popular education and community-rooted pedagogy. I’m especially interested in making linguistics accessible and building learning spaces outside formal academia.
 
 ## Workshops & Events
 
-Camps, lectures, organizing.
+Camps, lectures, organizing, and public pedagogy.
 
 ## Community Involvement
 
-Discord communities.
-
-Collaborative spaces.
+Discord communities, collaborative spaces, and international networks across linguistics, conlanging, mapping, and worldbuilding.
