@@ -1,0 +1,8 @@
+{{- $page := .Site.GetPage "about/biography" -}}
+<div class="bio-scroll" style="max-height: 360px; overflow: auto; padding: 16px; border: 1px solid #2b2440; border-radius: 10px; background: #141024;">
+  {{- if $page -}}
+    {{ $page.Content }}
+  {{- else -}}
+    <p>Biography not found.</p>
+  {{- end -}}
+</div>

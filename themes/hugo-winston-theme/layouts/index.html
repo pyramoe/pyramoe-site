@@ -1,0 +1,47 @@
+{{ define "body_classes" }}page-home{{ end }}
+
+{{ define "main" }}
+
+  {{ if .Site.Params.showAuthorOnHomepage }}
+    {{ partial "author-large.html" . }}
+  {{ end }}
+
+  <div class="intro">
+    <div class="home-portrait">
+      <img src="{{ "/images/me.jpg" | relURL }}" alt="Moaaz Saadsson" />
+    </div>
+    {{ if .Site.Params.showIntroContentOnHomepage}}
+      <div class="intro-content">{{ .Content }}</div>
+    {{ end }}
+  </div>
+
+  {{ if .Site.Params.showPostsOnHomepage }}
+    <div class="home-posts">
+      <h2>Latest Posts</h2>
+
+    {{ $pages := where .Site.RegularPages "Section" "blog" }}
+    {{ $sorted := ($pages.ByParam "date").Reverse }}
+    {{ if .Site.Params.sortPostsByDateOldestFirst }}
+      {{ $sorted = $pages.ByParam "date" }}
+    {{ end }}
+
+    {{ $paginator := .Paginate $sorted }}
+
+    {{ if .Site.Params.usePaginationOnHomepage }}
+      {{ range $paginator.Pages }}
+        {{ .Render "summary" }}
+      {{ end }}
+      {{ partial "paginator" . }}
+    {{ else }}
+      {{ $limit := .Site.Params.limitPostsOnHomepage | default 3 }}
+      {{ range first $limit $sorted}}
+        {{ .Render "summary" }}
+      {{ end }}
+    {{ end }}
+    </div>
+  {{ end }}
+
+{{ end }}
+
+{{ define "footer_js" }}
+{{ end }}
