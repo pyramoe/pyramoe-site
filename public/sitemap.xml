@@ -23,9 +23,6 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/meta/colophon/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/community/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
@@ -35,9 +32,6 @@
     <loc>http://localhost:1313/linguistics/competitions-olympiads/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/creative/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
@@ -45,9 +39,6 @@
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/cv/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/writing/essays-articles/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/worldbuilding/games-modding/</loc>
@@ -71,19 +62,10 @@
     <loc>http://localhost:1313/media/mentions/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/meta/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/creative/music/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/meta/now/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/open-source/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/writing/opinion-commentary/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/politics/organizations/</loc>
@@ -99,9 +81,6 @@
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/community/popular-education/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/meta/privacy-license/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/politics/program-policy/</loc>
@@ -122,15 +101,6 @@
     <loc>http://localhost:1313/politics/statements/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writing/talks-presentations/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/writing/translations/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/meta/uses/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/about/values-orientation/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
@@ -144,9 +114,6 @@
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/worldbuilding/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/writing/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

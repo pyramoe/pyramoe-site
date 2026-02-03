@@ -10,11 +10,11 @@ I’m an undergraduate student in Linguistics at Stockholm University. My intere
 
 ## Competitions & Olympiads
 
-- Swedish Linguistics Olympiad — Finalist (2022, 2024)
-- International Linguistics Olympiad — Competitor for the Swedish National Team (2022, 2024)
-- International Linguistics Olympiad — Honorable Mention, Team Competition (2024)
-- International Linguistics Olympiad — Ethics Committee Member (2025–present)
-- Swedish Linguistics Olympiad — Organizer (2024–present), Board Member (2025–present)
+- Swedish Linguistics Olympiad  -  Finalist (2022, 2024)
+- International Linguistics Olympiad  -  Competitor for the Swedish National Team (2022, 2024)
+- International Linguistics Olympiad  -  Honorable Mention, Team Competition (2024)
+- International Linguistics Olympiad  -  Ethics Committee Member (2025–present)
+- Swedish Linguistics Olympiad  -  Organizer (2024–present), Board Member (2025–present)
 
 ## Projects
 

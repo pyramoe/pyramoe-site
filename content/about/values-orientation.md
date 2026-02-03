@@ -17,7 +17,7 @@ draft = false
 - Libertarian marxist, radical feminist, anti-capitalist, anti-imperialist, internationalist
 - Committed to popular education, mass movements, and democratic organizing from below
 - Critical of intellectual property regimes, car dependency, and nationalist narratives
-- Supports LGBTQ+ liberation, climate justice, and the Palestinian right of return
+- Supports climate justice and the Palestinian right of return
 
 ## Views on language, education, and organizing
 

@@ -6,7 +6,7 @@ draft = false
 
 ## Overview / Landing
 
-I’m Moaaz Saadsson — a linguistics student, political organizer, and creative generalist based in Stockholm. I work at the intersection of language, organizing, history, and digital culture, with a long-term focus on popular education, linguistic justice, and community-driven projects.
+I’m Moaaz Saadsson  -  a linguistics student, political organizer, and creative generalist based in Stockholm. I work at the intersection of language, organizing, history, and digital culture, with a long-term focus on popular education, linguistic justice, and community-driven projects.
 
 Core identities: linguistics · organizing · politics · creative tech.
 
@@ -14,8 +14,7 @@ Core identities: linguistics · organizing · politics · creative tech.
 
 - [CV / Resume](/about/cv/)
 - [Projects](/projects/)
-- [Writing](/writing/)
-- [Contact](/contact/)
+- [Blog](/blog/)
 
 ## Highlights
 

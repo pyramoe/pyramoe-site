@@ -5,6 +5,6 @@ draft = false
 +++
 
 - Supports Palestinian right of return and a democratic state in historic Palestine
-- Supports LGBTQ+ liberation and radical feminist organizing
+- Supports radical feminist organizing
 - Supports public transit and car-free urban futures
 - Critical of capitalism, nationalism, and intellectual property regimes

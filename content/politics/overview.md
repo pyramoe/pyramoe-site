@@ -7,5 +7,5 @@ draft = false
 - Libertarian marxist, radical feminist, anti-capitalist, anti-imperialist, internationalist
 - Committed to popular education and mass movements
 - Anti-nationalist and pro-democratic organizing from below
-- Supports LGBTQ+ liberation, climate justice, and public transit
+- Supports climate justice and public transit
 - Supports Palestinian right of return and a democratic state in historic Palestine

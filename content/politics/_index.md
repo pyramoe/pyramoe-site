@@ -10,12 +10,12 @@ I identify as a libertarian marxist, radical feminist, anti-capitalist, anti-imp
 
 ## Organizations
 
-- Framtidens Vänster Solna — Chairman (2025–present)
-- Framtidens Vänster – Studenterna — Chairman (2025–present)
-- Framtidens Vänster Program Committee — Member (2026–present)
-- Stockholm Academics for Palestine — Chairman (2025)
-- Vänsterpartiet Luleå — Board Member (2023–2024)
-- Ung Vänster Luleå — Board Member (2023–2024)
+- Framtidens Vänster Solna  -  Chairman (2025–present)
+- Framtidens Vänster – Studenterna  -  Chairman (2025–present)
+- Framtidens Vänster Program Committee  -  Member (2026–present)
+- Stockholm Academics for Palestine  -  Chairman (2025)
+- Vänsterpartiet Luleå  -  Board Member (2023–2024)
+- Ung Vänster Luleå  -  Board Member (2023–2024)
 
 ## Program & Policy Work
 
@@ -24,6 +24,6 @@ I identify as a libertarian marxist, radical feminist, anti-capitalist, anti-imp
 
 ## Statements & Positions
 
-- Supports LGBTQ+ liberation, climate justice, and public transit
+- Supports climate justice and public transit
 - Critical of capitalism, intellectual property regimes, and nationalist narratives
 - Supports Palestinian right of return and a democratic state in historic Palestine
