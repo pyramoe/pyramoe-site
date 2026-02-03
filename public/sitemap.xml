@@ -2,19 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/2026/02/welcome/</loc>
+    <lastmod>2026-02-03T09:30:00-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/linguistics/academic-focus/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/academic-projects/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/archived/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/creative/audio-media/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/biography/</loc>
@@ -23,94 +14,31 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/community/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/community/community-involvement/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/linguistics/competitions-olympiads/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/creative/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/creative-technical/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/cv/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/worldbuilding/games-modding/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/media/interviews/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/linguistics/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/linguistics/projects/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/media/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/media/mentions/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/creative/music/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/open-source/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/politics/organizations/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/personal-facts/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/politics/overview/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/politics/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/community/popular-education/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/politics/program-policy/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/media/public-contributions/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/linguistics/resources/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/worldbuilding/speculative-history/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/politics/statements/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/about/values-orientation/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/creative/visual-design/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/community/workshops-events/</loc>
-    <lastmod>2026-02-03T09:00:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/worldbuilding/worldbuilding/</loc>
     <lastmod>2026-02-03T09:00:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/worldbuilding/</loc>

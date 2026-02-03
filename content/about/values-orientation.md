@@ -8,7 +8,6 @@ draft = false
 
 - Afroasiatic, Semitic, and Indo-European languages
 - Writing systems, script evolution, and orthography
-- Phonetics, phonology, and grammar
 - Historical linguistics and language change in real communities
 - The relationship between language, ideology, power, and identity
 

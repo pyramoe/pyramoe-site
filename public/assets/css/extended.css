@@ -1,0 +1,74 @@
+.author-image {
+  height: auto;
+  width: 120px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.home-portrait {
+  width: 150px;
+  margin: 0 0 20px 0;
+  border-radius: 16px;
+  padding: 8px;
+  background: linear-gradient(135deg, #2a1b4a, #0f0b1a);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+}
+
+.home-portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+.intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.intro-content {
+  flex: 1;
+}
+
+.home-portrait {
+  flex: 0 0 auto;
+}
+
+@media (max-width: 720px) {
+  .intro {
+    flex-direction: column;
+  }
+}
+
+.footer-contact {
+  margin-top: 16px;
+  font-size: 0.95rem;
+  color: #c8bfdc;
+}
+
+.footer-contact-title {
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: #f4f1ff;
+}
+
+.footer-contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.footer-contact-links a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.footer-contact-links a:hover {
+  border-bottom-color: #9b6bff;
+}
+
+.footer-contact-links .sep {
+  opacity: 0.5;
+}

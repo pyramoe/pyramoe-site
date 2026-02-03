@@ -8,8 +8,8 @@ draft = false
 
 - Name: Moaaz Saadsson
 - Date of birth: 2005-04-26
-- Phone: +46 76 078 85 27
-- Email: moaaztdb@gmail.com
+- Phone: +46, then (years since 1950), then (the last two digits of 1978 with a leading zero), then (the number of days in August + 54), then (my day of birth plus one)
+- Email: pyramoe@proton.me
 
 ## Education
 

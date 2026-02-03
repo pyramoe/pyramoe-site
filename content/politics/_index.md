@@ -8,22 +8,29 @@ draft = false
 
 I identify as a libertarian marxist, radical feminist, anti-capitalist, anti-imperialist, and internationalist. My politics are rooted in material analysis, anti-racism, climate justice, and solidarity with oppressed peoples. I believe in popular education, mass movements, and democratic organizing from below.
 
-## Organizations
+## Organizational roles
 
-- Framtidens Vänster Solna  -  Chairman (2025–present)
-- Framtidens Vänster – Studenterna  -  Chairman (2025–present)
-- Framtidens Vänster Program Committee  -  Member (2026–present)
+- Framtidens Vänster  -  Solna  -  Chairman (2025–present)
+- Framtidens Vänster  -  Studenterna  -  Chairman (2025–present)
+- Framtidens Vänster  -  Program Committee  -  Member (2026–present)
 - Stockholm Academics for Palestine  -  Chairman (2025)
-- Vänsterpartiet Luleå  -  Board Member (2023–2024)
-- Ung Vänster Luleå  -  Board Member (2023–2024)
+- Socialistiskt Alternativ  -  Stockholm North  -  Member (2024–2025)
+- Socialistiskt Alternativ  -  Luleå  -  Member (2024)
+- Vänsterpartiet  -  Luleå  -  Board Member (2023–2024)
+- Ung Vänster  -  Luleå  -  Board Member (2023–2024)
+- Ung Vänster  -  Election Committee  -  Member (2023–2024)
+- Ung Vänster  -  Antiracist Committee  -  Member (2023–2024)
+- Ung Vänster  -  Rak Vänster Magazine  -  Editorial Staff Member (2022–2023)
+- Ung Vänster  -  Norrbotten  -  Election Campaign Manager (2022)
+- Ung Vänster  -  Luleå  -  Contact Person (2021–2023)
 
-## Program & Policy Work
 
-- Program committee contributions and policy drafting
-- Political education, workshops, and democratic organizing
+## Political Overview
 
-## Statements & Positions
-
+- Libertarian marxist, radical feminist, anti-capitalist, anti-imperialist, internationalist
+- Committed to popular education and mass movements
+- Anti-nationalist and pro-democratic organizing from below
 - Supports climate justice and public transit
-- Critical of capitalism, intellectual property regimes, and nationalist narratives
+- Critical of intellectual property regimes
 - Supports Palestinian right of return and a democratic state in historic Palestine
+

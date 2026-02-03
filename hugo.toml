@@ -2,7 +2,7 @@ baseURL = "https://pyramoe.com/"
 title = "Moaaz Saadsson / Pyramoe"
 languageCode = "en"
 enableRobotsTXT = true
-theme = 'ananke' 
+theme = "hugo-winston-theme"
 
 # If you want /blog/ as the main post section:
 [permalinks]
@@ -18,6 +18,29 @@ theme = 'ananke'
   description = "Linguistics, organizing, politics, and creative tech."
   author = "Moaaz Saadsson"
   copyright = "© 2026 Moaaz Saadsson (Pyramoe)"
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = false
+  showIntroContentOnHomepage = true
+  showPostsOnHomepage = true
+  usePaginationOnHomepage = false
+  limitPostsOnHomepage = 3
+  sortPostsByDateOldestFirst = false
+  addDot = true
+  addFrame = true
+  highlightColor = "#9b6bff"
+  baseColor = "#0f0b1a"
+  baseOffsetColor = "#1a1426"
+  headingColor = "#f4f1ff"
+  textColor = "#c8bfdc"
+  dotColor = "#9b6bff"
+  enableGoogleFonts = true
+  googleFontsUrl = "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;600&display=swap"
+  fontFamilyHeading = "IBM Plex Sans"
+  fontFamilyParagraph = "IBM Plex Sans"
+  fontFamilyMonospace = "IBM Plex Mono"
+
+[pagination]
+  pagerSize = 6
 
 # Main nav (top-level structure)
 [menu]
@@ -49,10 +72,6 @@ theme = 'ananke'
     name = "Worldbuilding"
     pageRef = "/worldbuilding"
     weight = 70
-  [[menu.main]]
-    name = "Community"
-    pageRef = "/community"
-    weight = 75
   [[menu.main]]
     name = "Media"
     pageRef = "/media"
