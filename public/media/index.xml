@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Media Appearances on pyramoe</title>
-    <link>http://localhost:1313/media/</link>
-    <description>Recent content in Media Appearances on pyramoe</description>
+    <title>Media &amp; Appearances on pyramoe</title>
+    <link>http://localhost:1314/media/</link>
+    <description>Recent content in Media &amp; Appearances on pyramoe</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/media/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Feb 2026 09:00:00 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1314/media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interviews</title>
+      <link>http://localhost:1314/media/interviews/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/media/interviews/</guid>
+      <description>&lt;p&gt;Placeholder.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mentions</title>
+      <link>http://localhost:1314/media/mentions/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/media/mentions/</guid>
+      <description>&lt;p&gt;Placeholder.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Public Contributions</title>
+      <link>http://localhost:1314/media/public-contributions/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/media/public-contributions/</guid>
+      <description>&lt;p&gt;Wikipedia.&lt;/p&gt;&#xA;&lt;p&gt;Panels or events.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

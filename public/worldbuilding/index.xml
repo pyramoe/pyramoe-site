@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Worldbuilding on pyramoe</title>
-    <link>http://localhost:1313/worldbuilding/</link>
-    <description>Recent content in Worldbuilding on pyramoe</description>
+    <title>Worldbuilding &amp; Games on pyramoe</title>
+    <link>http://localhost:1314/worldbuilding/</link>
+    <description>Recent content in Worldbuilding &amp; Games on pyramoe</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/worldbuilding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Feb 2026 09:00:00 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1314/worldbuilding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Games &amp; Modding</title>
+      <link>http://localhost:1314/worldbuilding/games-modding/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/worldbuilding/games-modding/</guid>
+      <description>&lt;p&gt;Minecraft / Hytale.&lt;/p&gt;&#xA;&lt;p&gt;Mods and design notes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Speculative History</title>
+      <link>http://localhost:1314/worldbuilding/speculative-history/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/worldbuilding/speculative-history/</guid>
+      <description>&lt;p&gt;Alternate history projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Worldbuilding</title>
+      <link>http://localhost:1314/worldbuilding/worldbuilding/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/worldbuilding/worldbuilding/</guid>
+      <description>&lt;p&gt;Conworlds.&lt;/p&gt;&#xA;&lt;p&gt;Linguistic worldbuilding.&lt;/p&gt;&#xA;&lt;p&gt;Maps &amp;amp; timelines.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -37,6 +37,10 @@ theme = 'ananke'
     pageRef = "/politics"
     weight = 40
   [[menu.main]]
+    name = "Writing"
+    pageRef = "/writing"
+    weight = 45
+  [[menu.main]]
     name = "Projects"
     pageRef = "/projects"
     weight = 50
@@ -49,6 +53,10 @@ theme = 'ananke'
     pageRef = "/worldbuilding"
     weight = 70
   [[menu.main]]
+    name = "Community"
+    pageRef = "/community"
+    weight = 75
+  [[menu.main]]
     name = "Media"
     pageRef = "/media"
     weight = 80
@@ -60,3 +68,7 @@ theme = 'ananke'
     name = "Contact"
     pageRef = "/contact"
     weight = 100
+  [[menu.main]]
+    name = "Meta"
+    pageRef = "/meta"
+    weight = 110

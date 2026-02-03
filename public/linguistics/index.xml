@@ -2,11 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linguistics on pyramoe</title>
-    <link>http://localhost:1313/linguistics/</link>
+    <link>http://localhost:1314/linguistics/</link>
     <description>Recent content in Linguistics on pyramoe</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/linguistics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Feb 2026 09:00:00 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1314/linguistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic Focus</title>
+      <link>http://localhost:1314/linguistics/academic-focus/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/linguistics/academic-focus/</guid>
+      <description>&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of interest&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;methodological-interests&#34;&gt;Methodological interests&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Competitions &amp; Olympiads</title>
+      <link>http://localhost:1314/linguistics/competitions-olympiads/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/linguistics/competitions-olympiads/</guid>
+      <description>&lt;h2 id=&#34;swedish-linguistics-olympiad&#34;&gt;Swedish Linguistics Olympiad&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;international-linguistics-olympiad&#34;&gt;International Linguistics Olympiad&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ethics-committee-work&#34;&gt;Ethics Committee work&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linguistics Projects</title>
+      <link>http://localhost:1314/linguistics/projects/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/linguistics/projects/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Linguistic analyses&lt;/li&gt;&#xA;&lt;li&gt;Script / writing system projects&lt;/li&gt;&#xA;&lt;li&gt;Interactive or computational linguistics work&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1314/linguistics/resources/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/linguistics/resources/</guid>
+      <description>&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;reading-lists&#34;&gt;Reading lists&lt;/h2&gt;&#xA;&lt;p&gt;Placeholder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;learning-materials&#34;&gt;Learning materials&lt;/h2&gt;&#xA;&lt;p&gt;Optional public pedagogy.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

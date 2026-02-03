@@ -2,11 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creative on pyramoe</title>
-    <link>http://localhost:1313/creative/</link>
+    <link>http://localhost:1314/creative/</link>
     <description>Recent content in Creative on pyramoe</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/creative/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Feb 2026 09:00:00 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1314/creative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audio &amp; Media</title>
+      <link>http://localhost:1314/creative/audio-media/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/creative/audio-media/</guid>
+      <description>&lt;p&gt;Sound design.&lt;/p&gt;&#xA;&lt;p&gt;Experimental work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1314/creative/music/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/creative/music/</guid>
+      <description>&lt;p&gt;Pyramoe / Desolation Collective (archive).&lt;/p&gt;&#xA;&lt;p&gt;Releases, descriptions, reflections.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Visual / Design</title>
+      <link>http://localhost:1314/creative/visual-design/</link>
+      <pubDate>Tue, 03 Feb 2026 09:00:00 -0600</pubDate>
+      <guid>http://localhost:1314/creative/visual-design/</guid>
+      <description>&lt;p&gt;Graphic design.&lt;/p&gt;&#xA;&lt;p&gt;Visual experiments.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

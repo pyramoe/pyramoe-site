@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/moaaz/website/pyramoe",
+	"sourceRoot": "/Users/moaaz/repos/pyramoe-site",
 	"sources": [
 		"ananke/css/main.css"
 	],
