@@ -45,7 +45,7 @@ draft = false
 - Stockholm University Student Union  -  Election Committee Member (2025–present)
 - Swedish Linguistics Olympiad  -  Finalist (2022, 2024)
 - Swedish Linguistics Olympiad  -  Organizer (2024–present)
-- Swedish Linguistics Olympiad  -  Board Member (2025–present)
+- Swedish Linguistics Olympiad  -  Board Member (2025)
 - International Linguistics Olympiad  -  Competitor, Swedish National Team (2022, 2024)
 - International Linguistics Olympiad  -  Honorable Mention, Team Competition (2024)
 - International Linguistics Olympiad  -  Ethics Committee Member (2025–present)
