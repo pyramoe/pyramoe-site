@@ -15,3 +15,4 @@ draft = false
 - [Socialisterna - Internationell solidaritet](https://www.socialisterna.org/internationell-solidaritet-vi-kampar-pa-varje-universitet/)
 - [Socialisterna - Lojalitet med antirasismen](https://www.socialisterna.org/lojalitet-med-antirasismen-torgmote-mot-trumphogern/)
 - [Internationalen - Dags for forandring](https://internationalen.se/dags-for-forandring-nu-startar-vi-framtidens-vanster-studenterna/)
+- [Flamman - Kampen om campus](https://www.flamman.se/kampen-om-campus/)
