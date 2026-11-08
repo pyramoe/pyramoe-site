@@ -22,6 +22,8 @@ I’m Moaaz Saadsson  -  a linguistics student, political organizer, and creativ
 - BA student in Linguistics at Stockholm University
 - Organizer and board member, Swedish Linguistics Olympiad
 - Ethics Committee member, International Linguistics Olympiad
-- Chair, Framtidens Vänster Solna and Framtidens Vänster – Studenterna
-- Member, Framtidens Vänster Program Committee
+### Former roles
+
+- Chair, Framtidens Vänster Solna and Framtidens Vänster – Studenterna (2025–2026)
+- Member, Framtidens Vänster Program Committee (2026)
 
