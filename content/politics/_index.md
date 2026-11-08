@@ -8,11 +8,11 @@ draft = false
 
 I identify as a libertarian marxist, radical feminist, anti-capitalist, anti-imperialist, and internationalist. My politics are rooted in material analysis, anti-racism, climate justice, and solidarity with oppressed peoples. I believe in popular education, mass movements, and democratic organizing from below.
 
-## Organizational roles
+## Former organizational roles
 
-- Framtidens Vänster  -  Solna  -  Chairman (2025–present)
-- Framtidens Vänster  -  Studenterna  -  Chairman (2025–present)
-- Framtidens Vänster  -  Program Committee  -  Member (2026–present)
+- Framtidens Vänster  -  Solna  -  Chairman (2025–2026)
+- Framtidens Vänster  -  Studenterna  -  Chairman (2025–2026)
+- Framtidens Vänster  -  Program Committee  -  Member (2026)
 - Stockholm Academics for Palestine  -  Chairman (2025)
 - Socialistiskt Alternativ  -  Stockholm North  -  Member (2024–2025)
 - Socialistiskt Alternativ  -  Luleå  -  Member (2024)
