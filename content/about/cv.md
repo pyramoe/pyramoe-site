@@ -52,9 +52,9 @@ draft = false
 - Vänsterpartiet Luleå  -  Board Member (2023–2024)
 - Ung Vänster Luleå  -  Board Member (2023–2024)
 - Stockholm Academics for Palestine  -  Chairman (2025)
-- Framtidens Vänster Solna  -  Chairman (2025–present)
-- Framtidens Vänster – Studenterna  -  Chairman (2025–present)
-- Framtidens Vänster Program Committee  -  Member (2026–present)
+- Framtidens Vänster Solna  -  Chairman (2025–2026)
+- Framtidens Vänster – Studenterna  -  Chairman (2025–2026)
+- Framtidens Vänster Program Committee  -  Member (2026)
 
 ## Work experience
 
